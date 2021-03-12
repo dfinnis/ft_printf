@@ -21,7 +21,7 @@ Include *ft_printf.h* at the top of a C file, then you can use *ft_printf* just 
 
 ### Example
 
-Let's create an example *test.c* in the root of this project.
+Let's create an example *test.c* at the root of this project.
 
 ```c
 #include "ft_printf.h"
