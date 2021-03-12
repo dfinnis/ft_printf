@@ -35,7 +35,7 @@ int main(void)
 }
 ```
 
-Compile and run *test.c*.
+Compile *test.c* with *libftprintf.a* includes, and run.
 
 ```gcc test.c libftprintf.a -I includes -o test; ./test```
 
