@@ -44,13 +44,13 @@ Compile and run *test.c*.
 
 ## Parameters
 
-The number of parameters is indefinite (variadic arguments were used for this). `ft_printf` has the following functionality:
+The number of parameters is indefinite (variadic arguments were used). *ft_printf* has the following functionality:
 
 * **Conversions:** `c`, `s`, `p`, `d`, `i`, `o`, `O`, `u`, `U`, `x`, `X`, `f`, `%%`, `b` (binary)
 * **Style flags:** `#`, `0`, `-`, `+`, `space`, `*`
 * **Conversion flags:** `hh`, `h`, `l`, `ll`, `L`, `z`, `j`
-* Management of the minimum field-width
-* Management of the precision
+* Manage minimum field-width
+* Manage precision
 
 
 
