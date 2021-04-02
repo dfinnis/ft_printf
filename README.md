@@ -9,12 +9,10 @@ Now part of my personal [libft](https://github.com/dfinnis/Libft) library, used 
 
 ## Getting Started
 
-First clone this repo.
-
+First clone this repo. <br>
 ```git clone https://github.com/dfinnis/ft_printf.git; cd ft_printf```
 
-Make to compile *libftprintf.a*.
-
+Make to compile *libftprintf.a*. <br>
 ```make; make clean```
 
 Include *ft_printf.h* at the top of a C file, then you can use *ft_printf* just like *printf*.
